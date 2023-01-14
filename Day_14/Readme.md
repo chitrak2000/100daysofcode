@@ -6,7 +6,7 @@ Link:
 https://lnkd.in/diUNKhj9
 
 📌 𝐀𝐩𝐩𝐫𝐨𝐚𝐜𝐡:
-✅ Using 𝐛𝐢𝐧𝐚𝐫𝐲 𝐒𝐞𝐚𝐫𝐜𝐡 similar to yesterdays problem(book allocation problem):
+✅ Using 𝐛𝐢𝐧𝐚𝐫𝐲 𝐒𝐞𝐚𝐫𝐜𝐡 similar to yesterdays problem(book allocation problem)\n:
 ✅1. initializing least time as 0;
 ✅2. finding sum of all elements in the array and assigning it to max time;
 ✅3. finding mid using the formulae
