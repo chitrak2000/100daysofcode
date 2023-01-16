@@ -5,8 +5,8 @@ Link:
 https://lnkd.in/dh29Dbf6
 
 📌 𝐀𝐩𝐩𝐫𝐨𝐚𝐜𝐡:
-✅𝐁𝐫𝐮𝐭𝐞 𝐟𝐨𝐫𝐜𝐞 𝐎(𝐧): iterate through the array if the target value is equal to one of the elements store in the index in the variable answer.Else increment the   
-count variable. If the count variable is equal to the length of the array then we would infer that the element is not present in the array and return -1.
+✅𝐁𝐫𝐮𝐭𝐞 𝐟𝐨𝐫𝐜𝐞 𝐎(𝐧): iterate through the array if the target value is equal to one of the elements store in the index in the variable answer.Else increment the
+count variable. If the count variable is equal to the length of the array then we would infer that the element is not present in the array and return -1.  
 
 
 ✅𝐎𝐩𝐭𝐢𝐦𝐢𝐬𝐞𝐝 𝐀𝐩𝐩𝐫𝐨𝐚𝐜𝐡(𝐥𝐨𝐠(𝐧)): 𝐔𝐬𝐢𝐧𝐠 𝐁𝐢𝐧𝐚𝐫𝐲 𝐒𝐞𝐚𝐫𝐜𝐡: find sorted part of the array. Then check if the target lies in that sorted part using a binary search. 
