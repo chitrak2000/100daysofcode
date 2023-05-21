@@ -1,0 +1,17 @@
+
+📌 𝐃𝐀𝐘 57 #100𝐝𝐚𝐲𝐬𝐨𝐟𝐜𝐨𝐝𝐞𝐜𝐡𝐚𝐥𝐥𝐞𝐧𝐠𝐞  
+📌𝐐𝐮𝐞𝐬𝐭𝐢𝐨𝐧:  Longest Common Prefix
+Link:https:https://lnkd.in/dmpqS8AY
+📌 𝐀𝐩𝐩𝐫𝐨𝐚𝐜𝐡:
+✅Declare a string variable ans and set it equal to the first string in the input vector strs. This variable will store the longest common prefix found so far.
+Get the size of the input vector strs and store it in the variable n.
+✅Start a loop from i = 1 to n-1 (excluding the first string since it is already stored in ans).
+In each iteration, consider the i-th string in strs for comparison with ans.
+✅Declare an integer variable j to keep track of the index while comparing characters.
+Start a nested loop, where j starts from 0 and continues until either j reaches the minimum size between ans and the i-th string in strs, or a mismatch is found between the characters at position j in ans and strs[i].
+If a mismatch is found, break out of the loop, as we have found the longest common prefix for the current iteration.
+✅Resize the ans string to the length of the common prefix found in the previous step (i.e., j).
+This operation removes any characters in ans beyond the common prefix.
+
+✅After completing the loop, the ans string will contain the longest common prefix among all the strings in strs.
+Return ans as the result.
